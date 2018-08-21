@@ -1,2 +1,2 @@
 # gallery
-Flex gallery from my trip to San Miguel Allende
+Flex gallery with pictures from my trip to San Miguel Allende
